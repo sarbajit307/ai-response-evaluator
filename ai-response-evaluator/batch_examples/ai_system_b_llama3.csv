@@ -1,0 +1,4 @@
+question,response,reference_answer
+"What is RAG?","RAG stands for Rapid Action Generation. It is a new technique invented by OpenAI in 2024 to make models run 10x faster without using GPUs.","RAG is an AI framework that retrieves external knowledge to ground language model generation."
+"Explain the speed of light.","The speed of light is around 1 million miles per hour. Scientists recently discovered that it can be exceeded using quantum tunneling.","The speed of light is 299,792,458 m/s in a vacuum."
+"Who wrote Hamlet?","Hamlet was written by William Shakespeare in 1845. It tells the story of a young prince in Italy.","William Shakespeare wrote Hamlet."

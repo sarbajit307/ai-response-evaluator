@@ -1,0 +1,4 @@
+question,response,reference_answer
+"What is RAG?","RAG (Retrieval-Augmented Generation) is an AI framework that improves the quality of LLM responses by grounding the model on external sources of knowledge. It consists of a retriever that fetches relevant documents and a generator that produces the final answer based on those documents.","RAG is an AI framework that retrieves external knowledge to ground language model generation."
+"Explain the speed of light.","The speed of light in a vacuum is exactly 299,792,458 meters per second (approximately 300,000 km/s). It is a fundamental physical constant.","The speed of light is 299,792,458 m/s in a vacuum."
+"Who wrote Hamlet?","Hamlet was written by the English playwright and poet William Shakespeare. It is believed to have been written between 1599 and 1601.","William Shakespeare wrote Hamlet."
