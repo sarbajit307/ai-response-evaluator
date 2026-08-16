@@ -172,8 +172,8 @@ deep semantic reasoning.
 # Internship Information
 ### * Program: Infosys Springboard Virtual Internship 7.0
 
-### * AI Response Evaluator
+### * Project: AI Response Evaluator
 
-### * Domain: Artificial Intelligence
+### * Domain:  Artificial Intelligence
 
 ### * Author: Sarbajit Singha Roy
