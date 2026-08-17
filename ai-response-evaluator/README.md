@@ -1,4 +1,4 @@
-# AI Response Quality Evaluator Agent (Milestone 1)
+# AI Response Quality Evaluator Agent
 
 An advanced, production-ready multi-agent evaluation platform built in Python. This system analyzes, evaluates, and grades Large Language Model responses across multiple criteria using specialized judging agents and Retrieval-Augmented Generation (RAG) context verification.
 
